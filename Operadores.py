@@ -41,3 +41,4 @@ print(3==4)
 print(3 != 4)
 
 print(numero1 != numero2) #Compara variables  si no son iguales
+

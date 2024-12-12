@@ -34,8 +34,8 @@
 # con la primera letra del nombre y de los apellidos en mayúscula. El usuario puede 
 # introducir su nombre combinando mayúsculas y minúsculas como quiera.
 #print("hola" \n * 5
-print ("Dime tu nombre completo:")
-nom =str(input())
-print ("Cuantas veces quieres repetir el nombre:")
-num_name =int(input())
-print((nom + "\n") * (num_name))
+# print ("Dime tu nombre completo:")
+# nom =str(input())
+# print ("Cuantas veces quieres repetir el nombre:")
+# num_name =int(input())
+# print((nom + "\n") * (num_name))
